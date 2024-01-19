@@ -1,2 +1,2 @@
 # Welcome Nikky
-# Welcoe new Nikky react
+# Welcoe new Nikky reactgit init
